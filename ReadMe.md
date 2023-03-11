@@ -6,3 +6,6 @@
 - `python manage.py migrate`
 - `python manage.py makemigrations`
 - `python manage.py createsuperuser`
+
+video : - https://www.youtube.com/watch?v=PtQiiknWUcI&ab_channel=TraversyMedia <br>
+time :- 2:48
